@@ -1,4 +1,4 @@
-﻿**My Project Plan (Level 1 Heading)**
+﻿***My Project Plan (Level 1 Heading)***
 
 ***Note:*** This document is written merely as an illustrative example, and does not provide any working guide to an actual project.
 
@@ -27,4 +27,5 @@ $ conda create -n cv_detection
 $ conda activate cv_detection
 $ python --version
 $ python example.py
+
 
