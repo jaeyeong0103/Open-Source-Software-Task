@@ -10,7 +10,7 @@ I am planning to make a computer vision software that detects objects in images.
 
 In order to build it, I will use opencv, deep learning libraries, such as [TensorFlow ](https://www.tensorflow.org/)or [PyTorch](https://pytorch.org/), and other open source softwares.
 
-For example, the objects in the following images were detected using [mmdetection](https://github.com/open-mmlab/mmdetection): ![](Aspose.Words.ad4313ac-0213-4db8-a9fb-a855cfbb20c1.002.png)
+For example, the objects in the following images were detected using [mmdetection](https://github.com/open-mmlab/mmdetection): 
 
 ---
 
@@ -33,6 +33,7 @@ $ conda activate cv_detection
 $ python --version
 
 $ python example.py
+
 
 
 
