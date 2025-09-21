@@ -24,15 +24,16 @@ For example, the objects in the following images were detected using [mmdetectio
 
 **Installation**
 
-$ sudo apt update
+ $ sudo apt update
 
-$ conda create -n cv_detection
+ $ conda create -n cv_detection
 
-$ conda activate cv_detection
+ $ conda activate cv_detection
 
-$ python --version
+ $ python --version
 
-$ python example.py
+ $ python example.py
+
 
 
 
